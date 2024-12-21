@@ -1,0 +1,14 @@
+/* assets/style.css */
+.sensor-panel {
+    background-color: #f4f4f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+}
+
+#real-time-graph {
+    height: 400px;
+    margin-top: 20px;
+}
